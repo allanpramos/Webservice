@@ -6,16 +6,16 @@ Para realizar os cálculos, basta digitar os seguintes comandos na barra de pesq
 
 1. Operações matemáticas
 
-  SERVIDOR SIMPLES
-  - SOMAR: localhos:8081/calcular/N1/+/N2
-  - SUBTRAIR: localhos:8081/calcular/N1/-/N2
-  - MULTIPLICAR: localhos:8081/calcular/N1/*/N2
-  - DIVIDIR: localhos:8081/calcular/N1/:/N2
+    SERVIDOR SIMPLES
+    - SOMAR: localhos:8081/calcular/N1/+/N2
+    - SUBTRAIR: localhos:8081/calcular/N1/-/N2
+    - MULTIPLICAR: localhos:8081/calcular/N1/*/N2
+    - DIVIDIR: localhos:8081/calcular/N1/:/N2
 
-  SERVIDOR COMPLEXO
-  - PORCENTAGEM: localhos:8081/calcular/N1/por/N2
-  - POTENCIAÇÃO: localhos:8081/calcular/N1/pot/N2
-  - RADICIAÇÃO: localhos:8081/calcular/N1/rad/N2
+    SERVIDOR COMPLEXO
+    - PORCENTAGEM: localhos:8081/calcular/N1/por/N2
+    - POTENCIAÇÃO: localhos:8081/calcular/N1/pot/N2
+    - RADICIAÇÃO: localhos:8081/calcular/N1/rad/N2
 
 
 2. Como Executar
